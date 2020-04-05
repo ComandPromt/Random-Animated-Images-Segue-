@@ -6,7 +6,6 @@ This program picks a random animation and scenery. Clicking on the image generat
 
 | Animated Segue | Name           | Description
 |----------------|----------------|-------------------------------------
-
 |![PixelDissolveEffect](doc/images/PixelDissolveEffect.gif)         | `PixelDissolveEffect`     | Cross-dissolve from source to destination by randomly replacing source pixels with destination pixels.
 |![CheckerboardEffect](doc/images/CheckerboardEffect.gif)           | `CheckerboardEffect`      | Destination image appears over the source in a 8x8 matrix.
 |![BlindsEffect](doc/images/BlindsEffect.gif)                       | `BlindsEffect`            | Destination appears in "louvered" horizontal stripes.
@@ -32,6 +31,7 @@ This program picks a random animation and scenery. Clicking on the image generat
 |![StretchFromCenterEffect](doc/images/StretchFromCenterEffect.gif) | `StretchFromCenterEffect` | The destination image grows from the center of the screen obscuring the source underneath it.
 |![PlainEffect](doc/images/PlainEffect.gif)                         | `PlainEffect`             | A no-op transition that simply renders the source image.
 
-|![Preview 1](preview/1.gif)
-|![Preview 2](preview/2.gif) 
-|![Preview 3](preview/3.gif)  
+## Previews
+![Preview 1](preview/1.gif)
+![Preview 2](preview/2.gif) 
+![Preview 3](preview/3.gif)  
